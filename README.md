@@ -1,7 +1,7 @@
 # Codefights Algorithms
 
-[RO] Rezolvarile create de mine pentru algoritmii de pe site-ul Codefights.com.
+[RO] Rezolvarile create de mine pentru algoritmii de pe site-ul Codesignal.com.
 
-[EN] My solutions for the algorithms on Codefights.com.
+[EN] My solutions for the algorithms on Codesignal.com.
 
-Profil / Profile: https://codefights.com/profile/doandes_r
+Profil / Profile: https://app.codesignal.com/profile/razvan_d4
